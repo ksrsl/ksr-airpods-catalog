@@ -1,29 +1,29 @@
 {
-  "version": "2026-07-03T05:49:47.778461+00:00",
+  "version": "2026-07-03T07:35:55.021623+00:00",
   "pageSize": 9,
-  "pageCount": 24,
-  "songCount": 212,
+  "pageCount": 29,
+  "songCount": 253,
   "playlistCount": 4,
   "product": "KPods",
   "profile": "muffled",
   "siteTitle": "KPods Hosted Music Catalog",
-  "generatedAt": "2026-07-03T05:49:47.778461+00:00",
+  "generatedAt": "2026-07-03T07:35:55.021623+00:00",
   "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-05-30\\continue-the-ksr-hud-support-project\\speaker_live_publish_source\\kpods_source",
   "playlists": [
     {
       "slug": "all-music",
       "title": "All Music",
-      "songCount": 212
+      "songCount": 253
     },
     {
       "slug": "pop-2000s-2010s",
       "title": "Pop 2000s - 2010s",
-      "songCount": 93
+      "songCount": 131
     },
     {
       "slug": "hip-hop-2010s",
       "title": "Hip Hop 2010s",
-      "songCount": 62
+      "songCount": 65
     },
     {
       "slug": "hip-hop-2000s",
