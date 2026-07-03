@@ -1,1 +1,34 @@
-{"version":"2026-05-17T07:23:09.589265Z","pageSize":"9","pageCount":"11","songCount":"97","generatedAt":"2026-05-17T07:23:10.433306Z","playlistCount":2,"playlists":[{"slug":"all-music","title":"All Music","songCount":97},{"slug":"hip-hop-2020s","title":"Hip Hop 2020s","songCount":97}]}
+{
+  "version": "2026-07-03T03:08:46.754427+00:00",
+  "pageSize": 9,
+  "pageCount": 21,
+  "songCount": 184,
+  "playlistCount": 4,
+  "product": "KPods",
+  "profile": "muffled",
+  "siteTitle": "KPods Hosted Music Catalog",
+  "generatedAt": "2026-07-03T03:08:46.754427+00:00",
+  "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-05-30\\continue-the-ksr-hud-support-project\\speaker_live_publish_source\\kpods_source",
+  "playlists": [
+    {
+      "slug": "all-music",
+      "title": "All Music",
+      "songCount": 184
+    },
+    {
+      "slug": "pop-2000s-2010s",
+      "title": "Pop 2000s - 2010s",
+      "songCount": 94
+    },
+    {
+      "slug": "hip-hop-2010s",
+      "title": "Hip Hop 2010s",
+      "songCount": 48
+    },
+    {
+      "slug": "hip-hop-2000s",
+      "title": "Hip Hop 2000s",
+      "songCount": 42
+    }
+  ]
+}
