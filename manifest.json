@@ -1,19 +1,19 @@
 {
-  "version": "2026-07-03T07:35:55.021623+00:00",
+  "version": "2026-07-04T03:42:05.732239+00:00",
   "pageSize": 9,
-  "pageCount": 29,
-  "songCount": 253,
-  "playlistCount": 4,
+  "pageCount": 46,
+  "songCount": 409,
+  "playlistCount": 5,
   "product": "KPods",
   "profile": "muffled",
   "siteTitle": "KPods Hosted Music Catalog",
-  "generatedAt": "2026-07-03T07:35:55.021623+00:00",
-  "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-05-30\\continue-the-ksr-hud-support-project\\speaker_live_publish_source\\kpods_source",
+  "generatedAt": "2026-07-04T03:42:05.732239+00:00",
+  "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-07-02\\c-users-dotus-downloads-starch-music\\outputs\\kpods_hiphop2020s_publish_package\\kpods_source",
   "playlists": [
     {
       "slug": "all-music",
       "title": "All Music",
-      "songCount": 253
+      "songCount": 409
     },
     {
       "slug": "pop-2000s-2010s",
@@ -29,6 +29,11 @@
       "slug": "hip-hop-2000s",
       "title": "Hip Hop 2000s",
       "songCount": 57
+    },
+    {
+      "slug": "hip-hop-2020s",
+      "title": "Hip Hop 2020s",
+      "songCount": 156
     }
   ]
 }
