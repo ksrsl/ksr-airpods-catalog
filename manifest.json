@@ -1,19 +1,19 @@
 {
-  "version": "2026-07-04T03:42:05.732239+00:00",
+  "version": "2026-07-04T09:49:33.862728+00:00",
   "pageSize": 9,
-  "pageCount": 46,
-  "songCount": 409,
-  "playlistCount": 5,
+  "pageCount": 54,
+  "songCount": 485,
+  "playlistCount": 6,
   "product": "KPods",
   "profile": "muffled",
   "siteTitle": "KPods Hosted Music Catalog",
-  "generatedAt": "2026-07-04T03:42:05.732239+00:00",
+  "generatedAt": "2026-07-04T09:49:33.862728+00:00",
   "sourceDir": "C:\\Users\\dotus\\Documents\\Codex\\2026-07-02\\c-users-dotus-downloads-starch-music\\outputs\\kpods_hiphop2020s_publish_package\\kpods_source",
   "playlists": [
     {
       "slug": "all-music",
       "title": "All Music",
-      "songCount": 409
+      "songCount": 485
     },
     {
       "slug": "pop-2000s-2010s",
@@ -34,6 +34,11 @@
       "slug": "hip-hop-2020s",
       "title": "Hip Hop 2020s",
       "songCount": 156
+    },
+    {
+      "slug": "rnb-90s-2010s",
+      "title": "RNB 90s - 2010s",
+      "songCount": 76
     }
   ]
 }
